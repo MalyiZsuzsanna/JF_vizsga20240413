@@ -1,0 +1,39 @@
+
+body{
+    box-sizing: border-box;
+    background-color: #eef2ff;
+}
+nav img{
+    width: 25px;
+    border:1px solid #3730a3;
+    padding: 5px;
+    border-radius: 5px;
+   
+}
+
+header{
+    max-width: 1200px;
+    margin:auto;
+    border: 1px solid rgb(249, 241, 241);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    background:no-repeat center url(../public/background.png) ;
+    background-size: cover;
+}
+footer{
+    text-align: center;
+    margin-top: 10 px;
+    border-top: 3px solid #c7d2fe;
+  }
+  h4,p{
+    text-align: center;
+    margin-top: 10 px;
+    color: #3730a3;
+  }
+.kateg{
+    background-color: #c7d2fe;
+   
+}
+
